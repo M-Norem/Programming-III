@@ -18,6 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CSC450_CT1_mod1-1.cpp" />
+    <ClCompile Include="CSC450_CT1_mod1-2.cpp" />
+    <ClCompile Include="GetUserData.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
